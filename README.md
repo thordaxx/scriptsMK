@@ -1,0 +1,2 @@
+# scriptsMK
+bash scripts/tool
